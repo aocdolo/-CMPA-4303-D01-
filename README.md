@@ -130,7 +130,7 @@ This project's source code can be found in this GitHub repository:
 https://github.com/aocdolo/-CMPA-4303-D01-
 
 **Live Website:**  
-https://aocdolo.github.io/-CMPA-4303-D01-/
+file:///C:/Users/jeffd/Downloads/-CMPA-4303-D01-/index.html
 
 The website is designed for use across all devices, including desktop, tablet and mobile.
 
