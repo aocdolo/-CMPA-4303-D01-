@@ -64,12 +64,14 @@
   font-weight: bold;
 }
 
+/* Tablet */
 @media (max-width: 800px) {
   .resource-grid {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
+/* Phone */
 @media (max-width: 550px) {
   .resource-grid {
     grid-template-columns: 1fr;
